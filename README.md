@@ -3,7 +3,7 @@ A dashboard in which you can find what I found curious and worth investigating f
 November 2024
 
 
-![image description](/wip.png)
+![wip](https://github.com/Valentina-Maraio/the_dashboard_of_curiosity/blob/main/public/wip.png)
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
