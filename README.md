@@ -1,6 +1,9 @@
 ## The Dashboard of Curiosity
-A dashboard in which you can find what I found curious and worth investigating for in this bizarre time we live in. So buckle up and get ready for a bumpy ride. Created on 14th November 2024
+A dashboard in which you can find what I found curious and worth investigating for in this bizarre time we live in. So buckle up and get ready for a bumpy ride. Created on 14th 
+November 2024
 
+
+![image description](/wip.png)
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
